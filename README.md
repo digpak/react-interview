@@ -4,7 +4,7 @@ React Front end take home test
 ## The test
 Create a react app that consumes data from https://randomuser.me. The app should fulfil the following requirments:
 
-##Requirements
+## Requirements
 - Have an infinitely scrolling page that has cards for each user with their:
   - Profile Picture
   - Name
@@ -21,8 +21,8 @@ Create a react app that consumes data from https://randomuser.me. The app should
   - Thoughts on the SEO capabilities
 - Avoid using a design system like Ant, Minimal UI or Bootstrap.
 
-###Bonus
+### Bonus
 - CSS animations
 
-###Notes
+### Notes
 Please try and avoid using external libraries where possible. If you do use an external library include a section in your write up as to why you chose it.
